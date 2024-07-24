@@ -1,6 +1,10 @@
 ![logo](https://github.com/SyedZohaib7uu/SyedZohaib7uu/blob/main/450259144_122117557886336676_1364943848030158980_n.png)
 <h1 align="center">Hi 👋, I'm Syed Zohaib Shehzad</h1>
-<h3 align="center">A FRONTEND DEVELOPER WHO MAKES STUNNING WEBSITE WITH VARIOUS LIBRARIES AND FRAMEWORKS I MAKE WEBSITE WITH MORDERN ANIMATIONS</h3>
+<h3 align="center">A FRONTEND DEVELOPER WHO MAKES STUNNING WEBSITE WITH VARIOUS LIBRARIES AND FRAMEWORKS I MAKE WEBSITE WITH MORDERN ANIMATIONS.</h3><br><br><br><br>
+<h1 align="center">
+  📖<span style="color:aqua;">My All Website & Projects Are Private</span> :
+  <span style="color:red;">Because of Some Reasons.</span> 🌞🔥🔥🔥🔥👱‍♂
+</h1>
 <img align="right" alt="Coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  >
 
 
