@@ -1,4 +1,8 @@
-![logo](https://github.com/SyedZohaib7uu/SyedZohaib7uu/blob/main/450259144_122117557886336676_1364943848030158980_n.png)
+
+
+![Frontend Developer (1)](https://github.com/user-attachments/assets/758a417e-d8e3-49ff-9ab7-cc083a0441ae)
+
+
 <h1 align="center">Hi 👋, I'm Syed Zohaib Shehzad</h1>
 <h3 align="center">A FRONTEND DEVELOPER WHO MAKES STUNNING WEBSITE WITH VARIOUS LIBRARIES AND FRAMEWORKS I MAKE WEBSITE WITH MORDERN ANIMATIONS.</h3>
 <h1 align="center">
